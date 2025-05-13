@@ -1,0 +1,2 @@
+# -Waggle-Pet-Device-Data-Analysis-Power-BI-Dashboard-
+This project showcases a multi-page Power BI report built for Waggle, a pet tech startup. The objective is to compare data from Lapdog and Lapcat pet devices, delivering insights into pet behavior, family demographics, and regional patterns. The report features branded visuals, interactive navigation, slicers to support business decision-making .
